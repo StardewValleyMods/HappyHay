@@ -1,0 +1,4 @@
+{
+  "config.chance.name": "Double friendship chance",
+  "config.chance.tooltip": "Chance that a hay meal gives +16 friendship instead of +8. 0 turns this off. Only applies on days when the hay reward is actually granted."
+}

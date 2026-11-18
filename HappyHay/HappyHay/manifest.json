@@ -1,0 +1,21 @@
+{
+  "$schema": "https://smapi.io/schemas/manifest.json",
+  "Name": "Happy Hay",
+  "Author": "FawazT",
+  "Version": "1.0.0",
+  "Description": "Hay-fed animals get the same mood and friendship as grass-fed ones.",
+  "UniqueID": "FawazT.HappyHay",
+  "EntryDll": "HappyHay.dll",
+  "MinimumApiVersion": "4.1.0",
+  "MinimumGameVersion": "1.6.0",
+  "UpdateKeys": [
+    "Nexus:55701",
+    "GitHub:StardewValleyMods/HappyHay"
+  ],
+  "Dependencies": [
+    {
+      "UniqueID": "spacechase0.GenericModConfigMenu",
+      "IsRequired": false
+    }
+  ]
+}
